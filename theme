@@ -1,0 +1,16 @@
+[
+  {
+    "Name": "Rose-Pine-Moon",
+    "Menu_Background_Color": "rgb(35,33,54)",
+    "Menu_Foreground_Color": "rgb(224,222,244)",
+    "Menu_Border_Color": "rgb(235,111,146)",
+    "Menu_Border_Width": "1",
+    "Menu_Border_Radius": "14",
+    "Menu_Font_Size": "12",
+    "Menu_Separator_Color": "rgb(235,111,146)",
+    "Item_Hover_Background_Color": "rgba(189,230,251,0.08)",
+    "Item_Hover_Foreground_Color": "rgb(156,207,216)",
+    "Item_Active_Background_Color": "rgba(189,230,251,0.15)",
+    "Item_Active_Foreground_Color": "rgb(246,193,119)"
+  }
+]
